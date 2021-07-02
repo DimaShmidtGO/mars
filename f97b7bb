@@ -1,0 +1,14 @@
+[33m0666346[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m HEAD@{0}: reset: moving to 066634685ddb4cf7b09f0280804b567c0f8e47ff
+[33mf97b7bb[m HEAD@{1}: commit: SSH to GitHub
+[33md55dec9[m HEAD@{2}: commit: Finish
+[33md327362[m HEAD@{3}: commit: commit one
+[33m26c6f64[m HEAD@{4}: commit: first commit
+[33m0666346[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m HEAD@{5}: commit: test
+[33m7d827cb[m HEAD@{6}: reset: moving to 7d827cbe4b9828e5fdcc780c50a90090a0d08a4c
+[33m7d827cb[m HEAD@{7}: reset: moving to 7d827cb
+[33m7d827cb[m HEAD@{8}: reset: moving to 7d827cbe4b9828e5fdcc780c50a90090a0d08a4c
+[33m7d827cb[m HEAD@{9}: reset: moving to 7d827cbe4b9828e5fdcc780c50a90090a0d08a4c
+[33m70fa0b1[m HEAD@{10}: reset: moving to HEAD
+[33m70fa0b1[m HEAD@{11}: commit: Start0
+[33m33eedfc[m HEAD@{12}: commit: test1
+[33m7d827cb[m HEAD@{13}: commit (initial): Added index.html
